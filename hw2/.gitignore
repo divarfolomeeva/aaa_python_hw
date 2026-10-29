@@ -1,0 +1,17 @@
+.idea/
+*.iml
+
+.DS_Store
+
+Thumbs.db
+desktop.ini
+
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
